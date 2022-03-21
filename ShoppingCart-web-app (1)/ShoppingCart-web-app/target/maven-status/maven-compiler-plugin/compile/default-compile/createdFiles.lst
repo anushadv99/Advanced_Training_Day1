@@ -1,0 +1,4 @@
+net\springboot\repository\ProductRepository.class
+net\springboot\controller\ProductController.class
+net\springboot\entity\Product.class
+net\springboot\Application.class
